@@ -1,9 +1,9 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
-#include "vet.h"
+#include "vet.c"
 #include <math.h>
-#include "ordenacao.h"
+#include "ordenacao.c"
 
 int main (void) {
 
